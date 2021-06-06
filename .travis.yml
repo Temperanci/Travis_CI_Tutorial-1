@@ -18,4 +18,8 @@ after_success:
   on:
     tags: true
     branch: tag
-    repo: <your_github_username>/<your_repo_name>
+    repo: <Temperanci>/<Travis_CI_Tutorial-1>
+    
+notifications:
+ email:
+   - temperance131@gmail.com
