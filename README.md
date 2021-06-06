@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/72000692/120922104-dbb28c00-c6f9-11eb-9dcc-657e61585647.png)
+[![Build Status](https://travis-ci.com/Temperanci/Travis_CI_Tutorial-1.svg?branch=main)](https://travis-ci.com/Temperanci/Travis_CI_Tutorial-1)
 # How to Use Travis CI with Java on GitHub
 This repository is a demo of how to use [Travis CI](https://docs.travis-ci.com/) in a Java project on GitHub.
 
